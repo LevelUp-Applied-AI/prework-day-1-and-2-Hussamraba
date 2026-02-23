@@ -5,7 +5,19 @@ You will use it for Day 1 and Day 2 Pre-Work Assignments.
 
 Note: the Assignment due date is today. The GitHub Classroom button above lists the last date that resubmissions are accepted. 
 
+
+## About
+
+I am Hussam Rabaa, a software engineering graduate participating in the AI.SPIRE program.
+This repository contains my pre-work submissions and setup documentation.
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-Hussamraba.git
+cd prework-day-1-and-2-Hussamraba
 ---
+
 
 ## How This Repo Works
 
