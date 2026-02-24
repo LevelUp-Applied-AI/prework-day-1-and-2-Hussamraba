@@ -1,0 +1,14 @@
+# Git Setup — PR-1
+
+**Name:** Hussam Rabaa  
+**GitHub username:** (اكتب يوزرك)  
+**Platform:** Windows + WSL (Ubuntu 24.04)
+
+## Verified Git
+- `git --version`: 2.43.0
+
+## Configured Identity
+- `user.name`: Hussam Rabaa
+- `user.email`: houssam3.rabaa@gmail.com
+
+## Line Endi- `core.autocrlf`: input
